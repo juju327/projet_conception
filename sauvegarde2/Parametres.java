@@ -6,9 +6,9 @@ public class Parametres {
 	private int quotaMusique ;
 	private int tempsMaxLivre ;
 	private int tempsMaxMusique;
+	
 	public Parametres(int quotaGlobal, int quotaLivre, int quotaMusique,
 			int tempsMaxLivre, int tempsMaxMusique) {
-		super();
 		setQuotaGlobal(quotaGlobal); 
 		setQuotaLivre(quotaLivre);
 		setQuotaMusique(quotaMusique);
