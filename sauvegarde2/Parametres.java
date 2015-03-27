@@ -14,6 +14,7 @@ public class Parametres {
 		setQuotaMusique(quotaMusique);
 		setTempsMaxLivre(tempsMaxLivre);
 		setTempsMaxMusique(tempsMaxMusique);
+		
 	}
 	       
 	/**
